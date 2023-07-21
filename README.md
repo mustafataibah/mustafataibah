@@ -1,8 +1,12 @@
 # 💫 About Me:
-I am a Senior Computer Science student at Boston University <br>
+Hey, my name is Mustafa 👋, a senior Computer Science major at Boston University with a minor in Data Science. <br>
+I specialize in full-stack development with a deep understanding of React and Node.js. <br>
+I am experienced in all stages of project development. Collaborating with diverse teams, I’ve honed my problem-solving skills and ability to deliver end-to-end solutions. <br>
+Check out my GitHub for my projects. Feel free to collaborate! <br>
 
-
-## 🌐 LinkedIn:
+## Currently Seeking Opportunities
+I'm actively seeking new opportunities. Whether you've got an interesting project in mind, need a problem-solver on your team, or simply want to chat about the latest tech, don't hesitate to get in touch! <br>
+You can reach me at [mustafataibah@gmail.com](mustafataibah@gmail.com) or connect with me on LinkedIn <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafataibah) 
 
 # 💻 Tech Stack:
