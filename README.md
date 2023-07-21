@@ -2,7 +2,7 @@
 I am a Senior Computer Science student at Boston University <br>
 
 
-## 🌐 Socials:
+## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafataibah) 
 
 # 💻 Tech Stack:
