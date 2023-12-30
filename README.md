@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Mustafa 👋, a senior Computer Science major at Boston University.<br>
+Hi, my name is Mustafa, a senior Computer Science major at Boston University.<br>
 I specialize in full-stack development. <br>
 I am experienced in all stages of project development. Collaborating with diverse teams, I’ve honed my problem-solving skills and ability to deliver end-to-end solutions. <br>
 Check out my GitHub for my projects. Feel free to collaborate! <br>
